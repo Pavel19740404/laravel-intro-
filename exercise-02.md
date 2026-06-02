@@ -1,0 +1,16 @@
+# Задание 2. Установка composer
+
+```json
+{
+    "name": "pavel19740404/laravel-intro",
+    "description": "Домашнее задание по Composer",
+    "authors": [
+        {
+            "name": "Pavel Babin"
+        }
+    ],
+    "require-dev": {
+        "psr/log": "^3.0"
+    }
+}
+```
